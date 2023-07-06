@@ -12,7 +12,7 @@ Next, you need to install the required libraries for web scraping. You can use t
 
 You can install these libraries using pip, which is the default package installer for Python. Run the following commands in your terminal:
 
-```
+```python
 pip install requests
 pip install beautifulsoup4
 pip install pandas
